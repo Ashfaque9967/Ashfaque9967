@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media.tenor.com/azZCJ2YpsGgAAAAj/programming.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
